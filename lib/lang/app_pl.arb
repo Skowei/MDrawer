@@ -1,0 +1,33 @@
+{
+    "@@locale": "pl",
+    "appTitle": "MDrawer",
+    "helloWorld": "Witaj Świecie!",
+    "change_theme": "Zmień motyw",
+
+    "page_home": "Home",
+    "page_about": "Jak używać",
+    "page_projects": "Projekty",
+
+    "form_create_new_project": "Stwórz nowy projekt",
+    "form_edit_project": "Edytuj projekt",
+    "form_delete_project_info": "Naciśnij kosz aby potwierdzić usunięcie projektu.",
+    "form_add_project": "Dodaj projekt",
+    "form_project_name": "Nazwa projektu",
+    "form_enter_project_name": "Podaj nazwę projektu",
+    "form_project_description": "Opis projektu",
+    "form_enter_project_description": "Podaj opis projektu",
+
+    "form_create_new_task": "Stwórz nowy task",
+    "form_edit_task": "Edytuj task",
+    "form_delete_task_info": "Naciśnij kosz aby potwierdzić usunięcie taska.",
+    "form_add_task": "Dodaj task",
+    "form_task_name": "Nazwa taska",
+    "form_enter_task_name": "Podaj nazwę taska",
+    "form_task_description": "Opis taska",
+    "form_enter_task_description": "Podaj opis taska",
+
+    "field_required": "Pole wymagane",
+
+    "deleted": "Usunięto!",
+    "do_u_wish_to_undo": "Czy chcesz przywrócić?"
+}

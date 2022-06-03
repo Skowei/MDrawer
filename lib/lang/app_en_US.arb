@@ -1,0 +1,9 @@
+{
+    "@@locale": "en_US",
+    "appTitle": "MDrawer",
+    "helloWorld": "Hello World!",
+
+    "drawer_home": "home",
+    "drawer_about": "about",
+    "drawer_projects": "projects"
+}

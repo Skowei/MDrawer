@@ -1,0 +1,33 @@
+{
+    "@@locale": "en",
+    "appTitle": "MDrawer",
+    "helloWorld": "Hello World!",
+    "change_theme": "Change theme",
+
+    "page_home": "home",
+    "page_about": "about",
+    "page_projects": "projects",
+
+    "form_create_new_project": "Create new project",
+    "form_edit_project": "Edit project",
+    "form_delete_project_info": "Press bin to confirm project deletion.",
+    "form_add_project": "Add project",
+    "form_project_name": "Project name",
+    "form_enter_project_name": "Enter project name",
+    "form_project_description": "Project description",
+    "form_enter_project_description": "Enter project description",
+
+    "form_create_new_task": "Create new task",
+    "form_edit_task": "Edit task",
+    "form_delete_task_info": "Press bin to confirm task deletion.",
+    "form_add_task": "Add task",
+    "form_task_name": "Task name",
+    "form_enter_task_name": "Enter task name",
+    "form_task_description": "Task description",
+    "form_enter_task_description": "Enter task description",
+
+    "field_required": "Field required",
+
+    "deleted": "Deleted!",
+    "do_u_wish_to_undo": "Do you wish to undo?"
+}
